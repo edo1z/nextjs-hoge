@@ -1,7 +1,5 @@
-import Head from 'next/head'
-
 export default function Home() {
   return (
-    <div>hoge</div>
+    <div>hoge2</div>
   )
 }
