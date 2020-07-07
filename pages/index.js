@@ -1,4 +1,4 @@
-import styles from '../assets/css/Button.module.css'
+import styles from '../assets/css/Button.module.scss'
 
 export default function Home() {
   return (
